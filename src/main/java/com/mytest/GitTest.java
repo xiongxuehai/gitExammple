@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("adsdad");
         System.out.println("hot-fix modify");
         System.out.println("master conflict modify");
+        System.out.println("hot fix conflict commit");
     }
 }
